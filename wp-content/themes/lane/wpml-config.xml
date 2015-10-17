@@ -1,0 +1,86 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">_intro_type</custom-field>
+        <custom-field action="translate">_custom_title</custom-field>
+        <custom-field action="translate">_custom_introduce_text</custom-field>
+        <custom-field action="translate">_slideshow_type</custom-field>
+        <custom-field action="translate">_top_margins</custom-field>
+        <custom-field action="translate">_bottom_margins</custom-field>
+        <custom-field action="translate">_sidebar</custom-field>
+        <custom-field action="copy">_disable_breadcrumb</custom-field>
+
+        <custom-field action="copy">_page_bg</custom-field>
+        <custom-field action="copy">_page_position_x</custom-field>
+        <custom-field action="copy">_page_repeat</custom-field>
+        <custom-field action="copy">_page_bg_color</custom-field>
+		
+        <custom-field action="copy">_header_bg</custom-field>
+        <custom-field action="copy">_header_position_x</custom-field>
+        <custom-field action="copy">_header_repeat</custom-field>
+        <custom-field action="copy">_header_bg_color</custom-field>
+		
+        <custom-field action="copy">_breadcrumbs_bg</custom-field>
+        <custom-field action="copy">_breadcrumbs_position_x</custom-field>
+        <custom-field action="copy">_breadcrumbs_repeat</custom-field>
+        <custom-field action="copy">_breadcrumbs_bg_color</custom-field>
+        <custom-field action="copy">_breadcrumbs_text_color</custom-field>
+		
+        <custom-field action="copy">_intro_bg</custom-field>
+        <custom-field action="copy">_intro_position_x</custom-field>
+        <custom-field action="copy">_intro_repeat</custom-field>
+        <custom-field action="copy">_intro_bg_color</custom-field>
+        <custom-field action="copy">_intro_text_color</custom-field>
+		
+        <custom-field action="copy">_container_bg</custom-field>
+        <custom-field action="copy">_container_position_x</custom-field>
+        <custom-field action="copy">_container_repeat</custom-field>
+        <custom-field action="copy">_container_bg_color</custom-field>
+
+        <custom-field action="copy">_content_bg</custom-field>
+        <custom-field action="copy">_content_position_x</custom-field>
+        <custom-field action="copy">_content_repeat</custom-field>
+        <custom-field action="copy">_content_bg_color</custom-field>
+		
+        <custom-field action="copy">_footer_top_bg</custom-field>
+        <custom-field action="copy">_footer_top_position_x</custom-field>
+        <custom-field action="copy">_footer_top_repeat</custom-field>
+        <custom-field action="copy">_footer_top_color</custom-field>
+        <custom-field action="copy">_footer_bg</custom-field>
+        <custom-field action="copy">_footer_position_x</custom-field>
+        <custom-field action="copy">_footer_repeat</custom-field>
+        <custom-field action="copy">_footer_bg_color</custom-field>
+        <custom-field action="copy">_footer_bottom_bg</custom-field>
+        <custom-field action="copy">_footer_bottom_position_x</custom-field>
+        <custom-field action="copy">_footer_bottom_repeat</custom-field>
+        <custom-field action="copy">_footer_bottom_color</custom-field>
+        <custom-field action="copy">_footer_background_color</custom-field>
+        <custom-field action="copy">_footer_color</custom-field>
+        <custom-field action="copy">_footer_title_color</custom-field>
+
+        <custom-field action="translate">_featured_image</custom-field>
+        <custom-field action="translate">_featured_video</custom-field>
+        <custom-field action="copy">_portfolio_type</custom-field>
+        <custom-field action="copy">_image</custom-field>
+        <custom-field action="copy">_video</custom-field>
+        <custom-field action="copy">_video_width</custom-field>
+        <custom-field action="copy">_video_height</custom-field>
+        <custom-field action="translate">_portfolio_link</custom-field>
+        <custom-field action="translate">_portfolio_link_target</custom-field>
+        <custom-field action="translate">_thumbnail_player</custom-field>
+
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">wt_portfolio</custom-type>
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">wt_portfolio_category</taxonomy>
+    </taxonomies>
+    <admin-texts>
+        <key name="general">
+            <key name="plain_logo" />
+        </key>
+        <key name="footer">
+            <key name="copyright" />
+        </key>
+    </admin-texts>
+</wpml-config>

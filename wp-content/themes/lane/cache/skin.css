@@ -1,0 +1,558 @@
+body {
+	font-size: 14px;
+	font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;;
+	color: ;	
+}
+#wt_page {
+	/*overflow: hidden;*/
+}	
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .wpb_accordion_header a, .wt_pricing_box_sc .wt_pricing_btn .btn, #logo {
+	font-family: "Montserrat"; }
+h6, .h6 {
+	font-family: "Raleway"; }
+.wt_section_area .intro_text h3, .wt_section_heading.intro_text h3,
+.wt_team_info p.wt_team_job,
+.wt_testimonial_meta .wt_testimonial_author, .wt_pricing_content,
+#wt_home_content .wt_home_style_1 p {
+  font-family: "Crimson Text"; }
+.intro_text h3, .wt_counter_sc .stat-count, .wt_counter_sc .wt_stat_count, .wt_counter_sc .wt_stat_detail, .wt_pie_percent, .wt_pie_unit, .wt_timeline_year span, .wt_google_font, .wt_heading_more .btn, .copyright, .wt_portfolioCategory, .wp-pagenavi a, #wt_sidebarInner > .widget:not(.widget_search):not(.widget_mc4wp_widget), .mc4wp_submit, #wt_breadcrumbs, .wt_faq_row p, .nav-previous, .nav-next, .comment_meta .comment_author, .comment_meta .btn-reply, .sortableLinks a, .wt_team_job, .wt_vcsc_style .wpb_tabs_nav > li > a, .wt_portfolio_overlay h4 a, .wt_team_slider_sc.single_item_slider .wt_team_title, .wt_contact_area .wt_service_details h4,
+#nav.wt_nav_top .navbar-nav > li > a, wt_menu_btn, .blogEntry_title, .blogEntry_metadata, h3.widgettitle {
+	font-family: "Raleway"; }
+/**
+ * [Custom Color]
+ */
+/* ----- Primary Color ----- */
+a,
+.wt_skin_color,
+#logo .navbar-brand span,
+#nav.wt_nav_top .navbar-nav  li.active > a, 
+#nav.wt_nav_top .navbar-nav  li.current_page_item > a, 
+.home .scroll-fixed-navbar #nav.wt_nav_top .navbar-nav  li.current_page_item > a,
+#nav.wt_nav_top ul li:hover > a,
+.home #nav.wt_nav_top ul li:hover > a,
+.home #nav.wt_nav_top ul > li.level-1-li:hover > a,
+#nav ul li .mega-menu-widget a:hover,
+.wt_services:hover .wt_icon,
+#wt_footerWrapper a:hover,
+.wt_copyright span,
+#flexSlider .flex-caption .wt_button.button_slide:hover,
+#nivo_slider_wrap .nivo-caption .wt_button.button_slide:hover,
+#cycle_slider .cycle-overlay .wt_button.button_slide:hover,
+.wt_styled_list li:before,
+.nav-previous span,
+.nav-next span,
+.nav-previous a:hover,
+.nav-next a:hover,
+.widget_calendar a:hover,
+#wp-calendar caption, 
+#wp-calendar th,
+.blogEntry_title a:hover,
+.wt_blog_entry .blogEntry_metadata div i,
+.wt_blog_entry .blogEntry_metadata a:hover,
+.blogEntry_metadata_footer .entry_tags a:hover,
+.widget > ul > li i,
+.widget_nav_menu li a:before,
+.widget_contact_info i,
+.widget li a:hover,
+.widget .wt_postInfo .date,
+.widget .wt_postInfo .comments a,
+#wt_footerWrapper .widget .wt_postInfo .comments a,
+.comment_wrap .comment_author a:hover,
+ul.wt_tabs li a.current,
+ul.wt_tabs li a.current i,
+#wt_footerWrapper ul.wt_tabs li a.current,
+.wt_faq_row h2,
+.woocommerce .star-rating, .woocommerce-page .star-rating,
+/* ----- Shortcodes ----- */
+.wt_services_buttons a,
+.wt_services_slider h3,
+#wt_container .wt_services_slider h3 a,
+.wt_testimonial_heading h3 span,
+.wt_counter_sc,
+.wt_service_box_sc .wt_icon_type_1.wt_icon_default,
+.wt_service_box_sc .wt_icon_type_3.wt_icon_default,
+.wpb_accordion .wpb_accordion_header a:hover,
+.wpb_content_element.wt_vcsc_style .wpb_tabs_nav li.ui-tabs-active a,
+.wpb_content_element.wt_vcsc_style .wpb_tabs_nav li.ui-tabs-active:hover a, 
+.wpb_content_element.wt_vcsc_style .wpb_tabs_nav li.ui-tabs-active:focus a,
+.wt_vcsc_style .wpb_tabs_nav > li > a:hover,
+/* ----- Specific Theme Styles ----- */
+#wt_footerWrapper .wt_newsletter span,
+.wt_subscribe span,
+#wt_home_content .wt_style_3 h6 a:hover,
+#team-holder .owl-theme .owl-controls .owl-page span:before,
+.wt_team_slider_sc.single_item_slider .wt_team_content p:before,
+.wt_section_area a.wt_trial_button span {
+	color: #006f9b; }
+.btn-white,
+.btn-buy,
+.woocommerce-page a.button:hover,
+.woocommerce-page .price {
+	color: #006f9b !important; }
+.wt_services .wt_icon,
+.wt_contact_form_wrap .contact_button,
+.sortableLinks a:hover,
+.sortableLinks a.selected,
+#wt-top:hover,
+#wt-top:active,
+#nivo_slider_wrap .nivo-controlNav a,
+.cycle-pager span,
+h6.wt_framed_box_title,
+.error_page .wt_button,
+.wp-pagenavi > a:not(.active):not(.currentPosts):hover,
+.wp-pagenavi > span:hover,
+.wp-pagenavi > a:focus,
+.wp-pagenavi > span:focus,
+.mc4wp-form input[type="submit"],
+.wpcf7-form input[type="submit"],
+#today,
+#wt_containerWrapp #today,
+.wt_search_form .search-btn,
+.tagcloud a,
+.overlay,
+.comment_wrap .gravatar img:hover,
+.comment_wrap .gravatar:hover:after,
+.btn-reply a,
+.contact_button,
+.wt_flickrWrap div .hover,
+.wt_custom_owl_btns .btn-primary,
+a.wt_menu_btn:hover,
+.woocommerce-page a.button.wc-backward,
+.woocommerce span.onsale, .woocommerce-page span.onsale,
+.woocommerce button.button.alt,
+.woocommerce-page button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce-page input.button.alt,
+.woocommerce button.button:hover,
+.woocommerce-page button.button:hover,
+.woocommerce input.button:hover,
+.woocommerce-page input.button:hover,
+.woocommerce .woocommerce-message:before, .woocommerce-page .woocommerce-message:before,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle:last-child, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle:last-child,
+/* ----- Shortcodes ----- */
+.wt_services_buttons a.active,
+.wt_testimonials_slider_sc .bx-pager.bx-default-pager a:hover,
+.wt_testimonials_slider_sc .bx-pager.bx-default-pager a.active,
+.wt_timeline_year span,
+.wt_timeline_item:hover.wt_timeline_item:before,
+.wt_service_box_sc .wt_icon_type_2.wt_icon_default,
+.wt_service_box_sc:hover .wt_icon_type_3.wt_icon_default,
+.wt_image_zoom,
+.wt_progress_bars .vc_single_bar .vc_bar,
+/* ----- Specific Theme Styles ----- */
+.btn-theme,
+.wpcf7-form input[type="submit"],
+#wt_footerWrapper input[type="submit"],
+.btn-intro,
+#wt_home_content .bx-wrapper .bx-pager.bx-default-pager a:hover, 
+#wt_home_content .bx-wrapper .bx-pager.bx-default-pager a.active,
+#wt_home_content .mc4wp-form h5,
+#wt_home_content .wpcf7-form h5,
+.mc4wp-form input[type="submit"].btn-main,
+.wpcf7-form input[type="submit"].btn-main,
+.app-btn,
+.intro-newsletter button,
+.close-modal:hover {
+	background-color: #006f9b; }	
+.wt_skin_bg_color,
+#cancel-comment-reply-link:hover, 
+#cancel-comment-reply-link:focus, 
+#cancel-comment-reply-link:active,
+.nicescroll-rails div {
+	background-color: #006f9b !important; }
+.wt_skin_border_color,
+#flexSlider .flex-caption .wt_button.button_slide:hover,
+#nivo_slider_wrap .nivo-caption .wt_button.button_slide:hover,
+#cycle_slider .cycle-overlay .wt_button.button_slide:hover,
+#cancel-comment-reply-link:hover, 
+#cancel-comment-reply-link:focus, 
+#cancel-comment-reply-link:active,
+.wp-pagenavi > a:not(.active):not(.currentPosts):hover,
+.wp-pagenavi > span:hover,
+.wp-pagenavi > a:focus,
+.wp-pagenavi > span:focus,
+.mc4wp-form input[type="submit"],
+.wpcf7-form input[type="submit"],
+.tagcloud a,
+.avatar:hover img,
+.wt_custom_owl_btns .btn-primary,
+a.wt_menu_btn:hover,
+/* ----- Shortcodes ----- */
+.wt_services_slider h3,
+.wt_timeline_item:hover.wt_timeline_item:before,
+.wt_service_box_sc .wt_icon_type_3.wt_icon_default,
+#wt_footerWrapper input[type="submit"],
+/* ----- Specific Theme Styles ----- */
+.btn-intro,
+.btn-buy {
+	border-color: #006f9b; }
+.wt_skin_border_left_color,
+/* ----- Shortcodes ----- */
+.wt_services_buttons a,
+.wpb_accordion .wpb_accordion_header.ui-state-active a {
+	border-left-color: #006f9b; }
+.wt_skin_border_right_color,
+/* ----- Shortcodes ----- */
+.wt_services_buttons a {
+	border-right-color: #006f9b; }
+.wt_skin_border_top_color,
+ul.wt_tabs li a.current,
+.woocommerce .woocommerce-message, .woocommerce-page .woocommerce-message {
+	border-top-color: #006f9b; }
+.wt_skin_border_bottom_color,
+#nav ul ul.sub-menu, 
+#nav ul ul.sub-menu li ul.sub-menu,
+#nav ul ul.children, 
+#nav ul ul.children li ul.children {
+	border-bottom-color: #006f9b; }
+.form-control:focus {
+    border-color: #006f9b !important; }
+.wt_color_overlay {
+	background: rgba(0,111,155,0.5); }
+.wt_team_overlay .wt_team_content {
+	/* ----- Shortcodes ----- */
+	background: rgba(0,111,155,0.9); }
+.wt_loader_html {
+	background-image: url("../img/loader_skin.gif"); }
+/* ----- Secondary Color ----- */
+#wt_sidebar .wt_postInfo a:hover,
+.widget .wt_postInfo .comments a:hover,
+#wt_footerWrapper .widget .wt_postInfo .comments a:hover {
+	color: rgba(0,111,155, 0.75); }
+.btn-theme:hover,
+.wp-pagenavi .currentPosts,
+.wp-pagenavi > .active,
+.wp-pagenavi > .active > span,
+.wp-pagenavi > .active > a:hover,
+.wp-pagenavi > .active > span:hover,
+.wp-pagenavi > .active > a:focus,
+.wp-pagenavi > .active > span:focus,
+.wt_search_form .search-btn:hover,
+.tagcloud a:hover,
+.contact_button:hover,
+#wt_footerWrapper form input[type="submit"]:hover,
+.dual-btns .btn-main:nth-child(2),
+.wt_image_zoom:hover, .wt_image_zoom:focus {
+	background-color: rgba(0,111,155, 0.75); }
+.wp-pagenavi .currentPosts,
+.wp-pagenavi > .active,
+.wp-pagenavi > .active > span,
+.wp-pagenavi > .active > a:hover,
+.wp-pagenavi > .active > span:hover,
+.wp-pagenavi > .active > a:focus,
+.wp-pagenavi > .active > span:focus,
+.wt_search_form .search-btn,
+.tagcloud a:hover,
+.wpcf7-form input[type="submit"] {
+	border-color: rgba(0,111,155, 0.75); }
+/* ----- Static Styles to avoid css important ----- */ 
+.blogEntry_title a {
+	color: #333; }
+/* End Custom Skin */
+#anything_slider_wrap,
+#anything_slider_loading, 
+#anything_slider {
+	height: px;
+}
+.caption_left, .caption_right {
+	height: -40px;
+}
+#anything_slider .anything_sidebar_content {
+	height: -40px;
+}
+body.wt_pattern #wt_section_home {	
+	background-color: ;
+}
+body.wt_image_bg #wt_section_home {
+		background-image: url('http://quomkt.com.ar/wp-content/uploads/intro11.jpg');
+		background-repeat: no-repeat;
+		background-position: center top;
+		background-size: cover;		
+}
+body.wt_parallax {	
+}
+#wt_header,
+#stickyHeaderBg,
+.sticky-wrapper #wt_header {
+	background-color: ;
+}
+#topWidgetWrapper {
+	background-color: ;
+}
+#wt_breadcrumbs_wrapp {
+	background-color: ;
+}
+#wt_breadcrumbs .breadcrumbs,
+#wt_breadcrumbs .breadcrumbs a {
+	color: ;
+}
+#wt_wrapper {
+	background-color: ;
+}
+#wt_footerTop {	
+	background-color: ;
+}
+#wt_footer {	
+	background-color: ;
+}
+#wt_footerBottom {	
+	background-color: ;
+}
+h1, h2, h3, h4, h5, h6 {
+	color: ;
+}
+h1 {
+	font-size: 36px;
+	color: ;
+}
+h2 {
+	font-size: 30px;
+	color: ;
+}
+h3 {
+	font-size: 24px;
+	color: ;
+}
+h4 {
+	font-size: 18px;
+	color: ;
+}
+h5 {
+	font-size: 14px;
+	color: ;
+}
+h6 {
+	font-size: 12px;
+	color: ;
+}
+.home #logo .navbar-brand,
+#logo .navbar-brand {
+	color: ;
+	font-size: 30px;
+}
+#siteDescription {
+	color: ;
+	font-size: 12px;
+}
+#nav.wt_nav_top .navbar-nav > li > a,
+#nav.wt_nav_side ul li a {
+	color: ;
+	font-size: 13px;
+}
+#nav.wt_nav_top ul li:hover > a,
+.home #nav.wt_nav_top ul li:hover > a {
+	color: ;
+}
+#nav.wt_nav_top .navbar-nav li.current_page_item > a, 
+#nav.wt_nav_top .navbar-nav li.current-page-ancestor > a.level-1-a,
+#nav.wt_nav_top .navbar-nav ul li.current_page_ancestor > a,
+#nav.wt_nav_top .navbar-nav li.current-menu-ancestor > a {
+	color: ;
+}#nav ul ul a,
+#nav ul ul.sub-menu li a, 
+#nav ul ul.children li a,
+#nav.wt_nav_side ul ul a, 
+#nav.wt_nav_side ul ul.sub-menu li a, 
+#nav.wt_nav_side ul ul.children li a {
+	color: ;
+	font-size: 12px;
+}
+#nav ul li ul li a:hover {
+	color:  !important;
+}
+#wt_footerWrapper .wt_copyright {
+	color: rgba(255,255,255,1);
+	font-size: 13px;
+}
+#wt_footer .widget,
+#wt_footer p {
+	color: rgba(255,255,255,1);
+	font-size: 13.5px;
+}
+#wt_footerWrapper  h3.widgettitle,
+#wt_footerWrapper  h4.widgettitle  {
+	color: rgba(255,255,255,1);
+	font-size: 18px;
+}
+#wt_sidebar .widgettitle {
+	font-size: 18px;
+}
+.blogEntry {
+	margin-bottom:60px;
+}
+.wt_social_wrap a.aim:hover, .wt_social_wrap a.aim_32:hover, .wt_social_wrap_alt a.aim, .wt_social_wrap_alt a.aim:hover, .wt_social_wrap_alt a.aim_32, .wt_social_wrap_alt a.aim_32:hover { 
+	background-color: #452806; 
+}
+.wt_social_wrap a.apple:hover, .wt_social_wrap a.apple_32:hover, .wt_social_wrap_alt a.apple, .wt_social_wrap_alt a.apple:hover, .wt_social_wrap_alt a.apple_32, .wt_social_wrap_alt a.apple_32:hover, .wt_social_wrap_aw a.apple:hover { 
+	background-color: #231f20; 
+}
+.wt_social_wrap a.behance:hover, .wt_social_wrap a.behance_32:hover, .wt_social_wrap_alt a.behance, .wt_social_wrap_alt a.behance:hover, .wt_social_wrap_alt a.behance_32, .wt_social_wrap_alt a.behance_32:hover { 
+	background-color: #1378fe; 
+}
+.wt_social_wrap a.blogger:hover, .wt_social_wrap a.blogger_32:hover, .wt_social_wrap_alt a.blogger, .wt_social_wrap_alt a.blogger:hover, .wt_social_wrap_alt a.blogger_32, .wt_social_wrap_alt a.blogger_32:hover { 
+	background-color: #fe6601; 
+}
+.wt_social_wrap a.delicious:hover, .wt_social_wrap a.delicious_32:hover, .wt_social_wrap_alt a.delicious, .wt_social_wrap_alt a.delicious:hover, .wt_social_wrap_alt a.delicious_32, .wt_social_wrap_alt a.delicious_32:hover { 
+	background-color: #3274d2; 
+}
+.wt_social_wrap a.deviantart:hover, .wt_social_wrap a.deviantart_32:hover, .wt_social_wrap_alt a.deviantart, .wt_social_wrap_alt a.deviantart:hover, .wt_social_wrap_alt a.deviantart_32, .wt_social_wrap_alt a.deviantart_32:hover { 		
+	background-color: #c8da2e; 
+}
+.wt_social_wrap a.digg:hover, .wt_social_wrap a.digg_32:hover, .wt_social_wrap_alt a.digg, .wt_social_wrap_alt a.digg:hover, .wt_social_wrap_alt a.digg_32, .wt_social_wrap_alt a.digg_32:hover { 
+	background-color: #005f95; 
+}
+.wt_social_wrap a.dribbble:hover, .wt_social_wrap a.dribbble_32:hover, .wt_social_wrap_alt a.dribbble, .wt_social_wrap_alt a.dribbble:hover, .wt_social_wrap_alt a.dribbble_32, .wt_social_wrap_alt a.dribbble_32:hover, .wt_social_wrap_aw a.dribbble:hover { 
+	background-color: #ea4b8b; 
+}
+.wt_social_wrap a.email:hover, .wt_social_wrap a.email_32:hover, .wt_social_wrap_alt a.email, .wt_social_wrap_alt a.email:hover, .wt_social_wrap_alt a.email_32, .wt_social_wrap_alt a.email_32:hover { 
+	background-color: #262626; 
+}
+.wt_social_wrap a.ember:hover, .wt_social_wrap a.ember_32:hover, .wt_social_wrap_alt a.ember, .wt_social_wrap_alt a.ember:hover, .wt_social_wrap_alt a.ember_32, .wt_social_wrap_alt a.ember_32:hover { 
+	background-color: #e11a3b; 
+}
+.wt_social_wrap a.facebook:hover, .wt_social_wrap a.facebook_32:hover, .wt_social_wrap_alt a.facebook, .wt_social_wrap_alt a.facebook:hover, .wt_social_wrap_alt a.facebook_32, .wt_social_wrap_alt a.facebook_32:hover, .wt_social_wrap_aw a.facebook:hover { 
+	background-color: #3C5A9A; 
+}
+.wt_social_wrap a.flickr:hover, .wt_social_wrap a.flickr_32:hover, .wt_social_wrap_alt a.flickr, .wt_social_wrap_alt a.flickr:hover, .wt_social_wrap_alt a.flickr_32, .wt_social_wrap_alt a.flickr_32:hover, .wt_social_wrap_aw a.flickr:hover { 
+	background-color: #0062dd; 
+}
+.wt_social_wrap a.forrst:hover, .wt_social_wrap a.forrst_32:hover, .wt_social_wrap_alt a.forrst, .wt_social_wrap_alt a.forrst:hover, .wt_social_wrap_alt a.forrst_32, .social_wrap_alt a.forrst_32:hover { 
+	background-color: #166021; 
+}
+.wt_social_wrap a.google:hover, .wt_social_wrap a.google_32:hover, .wt_social_wrap_alt a.google, .wt_social_wrap_alt a.google:hover, .wt_social_wrap_alt a.google_32, .wt_social_wrap_alt a.google_32:hover, .wt_social_wrap_aw a.google:hover { 
+	background-color: #4a7af6; 
+}
+.wt_social_wrap a.googleplus:hover, .wt_social_wrap a.googleplus_32:hover, .wt_social_wrap_alt a.googleplus, .wt_social_wrap_alt a.googleplus:hover, .wt_social_wrap_alt a.googleplus_32, .wt_social_wrap_alt a.googleplus_32:hover, .wt_social_wrap_aw a.google-plus:hover { 
+	background-color: #da2713; 
+}
+.wt_social_wrap a.html5:hover, .wt_social_wrap a.html5_32:hover, .wt_social_wrap_alt a.html5, .wt_social_wrap_alt a.html5:hover, .wt_social_wrap_alt a.html5_32, .wt_social_wrap_alt a.html5_32:hover { 
+	background-color: #e54d26; 
+}
+.wt_social_wrap a.lastfm:hover, .wt_social_wrap a.lastfm_32:hover, .wt_social_wrap_alt a.lastfm, .wt_social_wrap_alt a.lastfm:hover, .wt_social_wrap_alt a.lastfm_32, .wt_social_wrap_alt a.lastfm_32:hover { 
+	background-color: #c30d19; 
+}
+.wt_social_wrap a.linkedin:hover, .wt_social_wrap a.linkedin_32:hover, .wt_social_wrap_alt a.linkedin, .wt_social_wrap_alt a.linkedin:hover, .wt_social_wrap_alt a.linkedin_32, .wt_social_wrap_alt a.linkedin_32:hover, .wt_wt_social_wrap_aw a.linkedin:hover { 
+	background-color: #006599; 
+}
+.wt_social_wrap a.metacafe:hover, .wt_social_wrap a.metacafe_32:hover, .wt_social_wrap_alt a.metacafe, .wt_social_wrap_alt a.metacafe:hover, .wt_social_wrap_alt a.metacafe_32, .wt_social_wrap_alt a.metacafe_32:hover { 
+	background-color: #f88326; 
+}
+.wt_social_wrap a.netvibes:hover, .wt_social_wrap a.netvibes_32:hover, .wt_social_wrap_alt a.netvibes, .wt_social_wrap_alt a.netvibes:hover, .wt_social_wrap_alt a.netvibes_32, .wt_social_wrap_alt a.netvibes_32:hover  { 
+	background-color: #15ae15; 
+}
+.wt_social_wrap a.paypal:hover, .wt_social_wrap a.paypal_32:hover, .wt_social_wrap_alt a.paypal, .wt_social_wrap_alt a.paypal:hover, .wt_social_wrap_alt a.paypal_32, .wt_social_wrap_alt a.paypal_32:hover { 
+	background-color: #2c5f8c; 
+}
+.wt_social_wrap a.picasa:hover, .wt_social_wrap a.picasa_32:hover, .wt_social_wrap_alt a.picasa, .wt_social_wrap_alt a.picasa:hover, .wt_social_wrap_alt a.picasa_32, .wt_social_wrap_alt a.picasa_32:hover { 
+	background-color: #b163c9; 
+}
+.wt_social_wrap a.pinterest:hover, .wt_social_wrap a.pinterest_32:hover, .wt_social_wrap_alt a.pinterest, .wt_social_wrap_alt a.pinterest:hover, .wt_social_wrap_alt a.pinterest_32, .wt_social_wrap_alt a.pinterest_32:hover, .wt_social_wrap_aw a.pinterest:hover { 
+	background-color: #cb2028; 
+}
+.wt_social_wrap a.reddit:hover, .wt_social_wrap a.reddit_32:hover, .wt_social_wrap_alt a.reddit, .wt_social_wrap_alt a.reddit:hover, .wt_social_wrap_alt a.reddit_32, .wt_social_wrap_alt a.reddit_32:hover { 
+	background-color: #6bbffb; 
+}
+.wt_social_wrap a.rss:hover, .wt_social_wrap a.rss_32:hover, .wt_social_wrap_alt a.rss, .wt_social_wrap_alt a.rss:hover, .wt_social_wrap_alt a.rss_32, .wt_social_wrap_alt a.rss_32:hover, .wt_social_wrap_aw a.rss:hover { 
+	background-color: #ff6600; 
+}
+.wt_social_wrap a.skype:hover, .wt_social_wrap a.skype_32:hover, .wt_social_wrap_alt a.skype, .wt_social_wrap_alt a.skype:hover, .wt_social_wrap_alt a.skype_32, .wt_social_wrap_alt a.skype_32:hover, .wt_social_wrap_aw a.skype:hover { 
+	background-color: #00aff0; 
+}
+.wt_social_wrap a.stumbleupon:hover, .wt_social_wrap a.stumbleupon_32:hover, .wt_social_wrap_alt a.stumbleupon, .wt_social_wrap_alt a.stumbleupon:hover, .wt_social_wrap_alt a.stumbleupon_32, .wt_social_wrap_alt a.stumbleupon_32:hover { 
+	background-color: #ea4b24; 
+}
+.wt_social_wrap a.technorati:hover, .wt_social_wrap a.technorati_32:hover, .wt_social_wrap_alt a.technorati, .wt_social_wrap_alt a.technorati:hover, .wt_social_wrap_alt a.technorati_32, .wt_social_wrap_alt a.technorati_32:hover { 
+	background-color: #00c400; 
+}
+.wt_social_wrap a.tumblr:hover, .wt_social_wrap a.tumblr_32:hover, .wt_social_wrap_alt a.tumblr, .wt_social_wrap_alt a.tumblr:hover, .wt_social_wrap_alt a.tumblr_32, .wt_social_wrap_alt a.tumblr_32:hover, .wt_wt_social_wrap_aw a.tumblr:hover { 
+	background-color: #2c4661; 
+}
+.wt_social_wrap a.twitter:hover, .wt_social_wrap a.twitter_32:hover, .wt_social_wrap_alt a.twitter, .wt_social_wrap_alt a.twitter:hover, .wt_social_wrap_alt a.twitter_32, .wt_social_wrap_alt a.twitter_32:hover, .wt_wt_social_wrap_aw a.twitter:hover { 
+	background-color: #00acee; 
+}
+.wt_social_wrap a.vimeo:hover, .wt_social_wrap a.vimeo_32:hover, .wt_social_wrap_alt a.vimeo, .wt_social_wrap_alt a.vimeo:hover, .wt_social_wrap_alt a.vimeo_32, .wt_social_wrap_alt a.vimeo_32:hover { 
+	background-color: #17aacc; 
+}
+.wt_social_wrap a.wordpress:hover, .wt_social_wrap a.wordpress_32:hover, .wt_social_wrap_alt a.wordpress, .wt_social_wrap_alt a.wordpress:hover, .wt_social_wrap_alt a.wordpress_32, .wt_social_wrap_alt a.wordpress_32:hover { 
+	background-color: #207499; 
+}
+.wt_social_wrap a.yahoo:hover, .wt_social_wrap a.yahoo_32:hover, .wt_social_wrap_alt a.yahoo, .wt_social_wrap_alt a.yahoo:hover, .wt_social_wrap_alt a.yahoo_32, .swt_ocial_wrap_alt a.yahoo_32:hover { 
+	background-color: #65106b; 
+}
+.wt_social_wrap a.yelp:hover, .wt_social_wrap a.yelp_32:hover, .wt_social_wrap_alt a.yelp, .wt_social_wrap_alt a.yelp:hover, .wt_social_wrap_alt a.yelp_32, .wt_social_wrap_alt a.yelp_32:hover { 
+	background-color: #c51102; 
+}
+.wt_social_wrap a.youtube:hover, .wt_social_wrap a.youtube_32:hover, .wt_social_wrap_alt a.youtube, .wt_social_wrap_alt a.youtube:hover, .wt_social_wrap_alt a.youtube_32, .wt_social_wrap_alt a.youtube_32:hover, .wt_social_wrap_aw a.youtube:hover { 
+	background-color: #d20200; 
+}
+.wt_social_wrap_fa a.apple:hover { 
+	border-color: #231f20;  }
+.wt_social_wrap_fa a.apple:hover i { 
+	color: #231f20;  }
+.wt_social_wrap_fa a.dribbble:hover { 
+	border-color: #ea4b8b;  }
+.wt_social_wrap_fa a.dribbble:hover i { 
+	color: #ea4b8b;  }
+.wt_social_wrap_fa a.dropbox:hover { 
+	border-color: #007ee5;  }
+.wt_social_wrap_fa a.dropbox:hover i { 
+	color: #007ee5;  }
+.wt_social_wrap_fa a.facebook:hover { 
+	border-color: #3C5A9A;  }
+.wt_social_wrap_fa a.facebook:hover i { 
+	color: #3C5A9A;  }
+.wt_social_wrap_fa a.flickr:hover { 
+	border-color: #0062dd;  }
+.wt_social_wrap_fa a.flickr:hover i { 
+	color: #0062dd;  }
+.wt_social_wrap_fa a.github:hover { 
+	border-color: #569e3d;  }
+.wt_social_wrap_fa a.github:hover i { 
+	color: #569e3d;  }
+.wt_social_wrap_fa a.google-plus:hover { 
+	border-color: #da2713;  }
+.wt_social_wrap_fa a.google-plus:hover i { 
+	color: #da2713;  }
+.wt_social_wrap_fa a.html5:hover { 
+	border-color: #e54d26;  }
+.wt_social_wrap_fa a.html5:hover i { 
+	color: #e54d26;  }
+.wt_social_wrap_fa a.instagram:hover { 
+	border-color: #517fa4;  }
+.wt_social_wrap_fa a.instagram:hover i { 
+	color: #517fa4;  }
+.wt_social_wrap_fa a.linkedin:hover { 
+	border-color: #006599;  }
+.wt_social_wrap_fa a.linkedin:hover i { 
+	color: #006599;  }
+.wt_social_wrap_fa a.pinterest:hover { 
+	border-color: #cb2028;  }
+.wt_social_wrap_fa a.pinterest:hover i { 
+	color: #cb2028;  }
+.wt_social_wrap_fa a.rss:hover { 
+	border-color: #ff6600;  }
+.wt_social_wrap_fa a.rss:hover i { 
+	color: #ff6600;  }
+.wt_social_wrap_fa a.skype:hover { 
+	border-color: #00aff0;  }
+.wt_social_wrap_fa a.skype:hover i { 
+	color: #00aff0;  }
+.wt_social_wrap_fa a.tumblr:hover { 
+	border-color: #2c4661;  }
+.wt_social_wrap_fa a.tumblr:hover i { 
+	color: #2c4661;  }
+.wt_social_wrap_fa a.twitter:hover { 
+	border-color: #00acee;  }
+.wt_social_wrap_fa a.twitter:hover i { 
+	color: #00acee;  }
+.wt_social_wrap_fa a.vimeo-square:hover { 
+	border-color: #17aacc;  }
+.wt_social_wrap_fa a.vimeo-square:hover i { 
+	color: #17aacc;  }
+.wt_social_wrap_fa a.youtube:hover { 
+	border-color: #d20200;  }
+.wt_social_wrap_fa a.youtube:hover i { 
+	color: #d20200;  }
+/* ----------------- Custom css ----------------- */

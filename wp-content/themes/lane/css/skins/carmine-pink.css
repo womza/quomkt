@@ -1,0 +1,241 @@
+/**
+ * [Code color]
+ * Carmine Pink: #e74c3c
+          rgb(231,76,60)
+		  #bc3729 - secondary color 
+ */
+
+/* ----- Primary Color ----- */
+
+a,
+.wt_skin_color,
+#logo .navbar-brand span,
+#nav.wt_nav_top .navbar-nav  li.active > a, 
+#nav.wt_nav_top .navbar-nav  li.current_page_item > a, 
+.home .scroll-fixed-navbar #nav.wt_nav_top .navbar-nav  li.current_page_item > a,
+#nav.wt_nav_top ul li:hover > a,
+.home #nav.wt_nav_top ul li:hover > a,
+.home #nav.wt_nav_top ul > li.level-1-li:hover > a,
+#nav ul li .mega-menu-widget a:hover,
+.wt_services:hover .wt_icon,
+#wt_footerWrapper a:hover,
+.wt_copyright span,
+#flexSlider .flex-caption .wt_button.button_slide:hover,
+#nivo_slider_wrap .nivo-caption .wt_button.button_slide:hover,
+#cycle_slider .cycle-overlay .wt_button.button_slide:hover,
+.wt_styled_list li:before,
+.nav-previous span,
+.nav-next span,
+.nav-previous a:hover,
+.nav-next a:hover,
+.widget_calendar a:hover,
+#wp-calendar caption, 
+#wp-calendar th,
+.blogEntry_title a:hover,
+.wt_blog_entry .blogEntry_metadata div i,
+.wt_blog_entry .blogEntry_metadata a:hover,
+.blogEntry_metadata_footer .entry_tags a:hover,
+.widget > ul > li i,
+.widget_nav_menu li a:before,
+.widget_contact_info i,
+.widget li a:hover,
+.widget .wt_postInfo .date,
+.widget .wt_postInfo .comments a,
+#wt_footerWrapper .widget .wt_postInfo .comments a,
+.comment_wrap .comment_author a:hover,
+ul.wt_tabs li a.current,
+ul.wt_tabs li a.current i,
+#wt_footerWrapper ul.wt_tabs li a.current,
+.wt_faq_row h2,
+.woocommerce .star-rating, .woocommerce-page .star-rating,
+/* ----- Shortcodes ----- */
+.wt_services_buttons a,
+.wt_services_slider h3,
+#wt_container .wt_services_slider h3 a,
+.wt_testimonial_heading h3 span,
+.wt_counter_sc,
+.wt_service_box_sc .wt_icon_type_1.wt_icon_default,
+.wt_service_box_sc .wt_icon_type_3.wt_icon_default,
+.wpb_accordion .wpb_accordion_header a:hover,
+.wpb_content_element.wt_vcsc_style .wpb_tabs_nav li.ui-tabs-active a,
+.wpb_content_element.wt_vcsc_style .wpb_tabs_nav li.ui-tabs-active:hover a, 
+.wpb_content_element.wt_vcsc_style .wpb_tabs_nav li.ui-tabs-active:focus a,
+.wt_vcsc_style .wpb_tabs_nav > li > a:hover,
+/* ----- Specific Theme Styles ----- */
+#wt_footerWrapper .wt_newsletter span,
+.wt_subscribe span,
+#wt_home_content .wt_style_3 h6 a:hover,
+#team-holder .owl-theme .owl-controls .owl-page span:before,
+.wt_team_slider_sc.single_item_slider .wt_team_content p:before,
+.wt_section_area a.wt_trial_button span {
+	color: #e74c3c; }
+.btn-white,
+.btn-buy,
+.woocommerce-page a.button:hover,
+.woocommerce-page .price {
+	color: #e74c3c !important; }
+.wt_services .wt_icon,
+.wt_contact_form_wrap .contact_button,
+.sortableLinks a:hover,
+.sortableLinks a.selected,
+#wt-top:hover,
+#wt-top:active,
+#nivo_slider_wrap .nivo-controlNav a,
+.cycle-pager span,
+h6.wt_framed_box_title,
+.error_page .wt_button,
+.wp-pagenavi > a:not(.active):not(.currentPosts):hover,
+.wp-pagenavi > span:hover,
+.wp-pagenavi > a:focus,
+.wp-pagenavi > span:focus,
+.mc4wp-form input[type="submit"],
+.wpcf7-form input[type="submit"],
+#today,
+#wt_containerWrapp #today,
+.wt_search_form .search-btn,
+.tagcloud a,
+.overlay,
+.comment_wrap .gravatar img:hover,
+.comment_wrap .gravatar:hover:after,
+.btn-reply a,
+.contact_button,
+.wt_flickrWrap div .hover,
+.wt_custom_owl_btns .btn-primary,
+a.wt_menu_btn:hover,
+.woocommerce-page a.button.wc-backward,
+.woocommerce span.onsale, .woocommerce-page span.onsale,
+.woocommerce button.button.alt,
+.woocommerce-page button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce-page input.button.alt,
+.woocommerce button.button:hover,
+.woocommerce-page button.button:hover,
+.woocommerce input.button:hover,
+.woocommerce-page input.button:hover,
+.woocommerce .woocommerce-message:before, .woocommerce-page .woocommerce-message:before,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle:last-child, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle:last-child,
+/* ----- Shortcodes ----- */
+.wt_services_buttons a.active,
+.wt_testimonials_slider_sc .bx-pager.bx-default-pager a:hover,
+.wt_testimonials_slider_sc .bx-pager.bx-default-pager a.active,
+.wt_timeline_year span,
+.wt_timeline_item:hover.wt_timeline_item:before,
+.wt_service_box_sc .wt_icon_type_2.wt_icon_default,
+.wt_service_box_sc:hover .wt_icon_type_3.wt_icon_default,
+.wt_image_zoom,
+.wt_progress_bars .vc_single_bar .vc_bar,
+/* ----- Specific Theme Styles ----- */
+.btn-theme,
+.wpcf7-form input[type="submit"],
+#wt_footerWrapper input[type="submit"],
+.btn-intro,
+#wt_home_content .bx-wrapper .bx-pager.bx-default-pager a:hover, 
+#wt_home_content .bx-wrapper .bx-pager.bx-default-pager a.active,
+#wt_home_content .mc4wp-form h5,
+#wt_home_content .wpcf7-form h5,
+.mc4wp-form input[type="submit"].btn-main,
+.wpcf7-form input[type="submit"].btn-main,
+.app-btn,
+.intro-newsletter button,
+.close-modal:hover {
+	background-color: #e74c3c; }	
+.wt_skin_bg_color,
+#cancel-comment-reply-link:hover, 
+#cancel-comment-reply-link:focus, 
+#cancel-comment-reply-link:active,
+.nicescroll-rails div {
+	background-color: #e74c3c !important; }
+.wt_skin_border_color,
+#flexSlider .flex-caption .wt_button.button_slide:hover,
+#nivo_slider_wrap .nivo-caption .wt_button.button_slide:hover,
+#cycle_slider .cycle-overlay .wt_button.button_slide:hover,
+#cancel-comment-reply-link:hover, 
+#cancel-comment-reply-link:focus, 
+#cancel-comment-reply-link:active,
+.wp-pagenavi > a:not(.active):not(.currentPosts):hover,
+.wp-pagenavi > span:hover,
+.wp-pagenavi > a:focus,
+.wp-pagenavi > span:focus,
+.mc4wp-form input[type="submit"],
+.wpcf7-form input[type="submit"],
+.tagcloud a,
+.avatar:hover img,
+.wt_custom_owl_btns .btn-primary,
+a.wt_menu_btn:hover,
+/* ----- Shortcodes ----- */
+.wt_services_slider h3,
+.wt_timeline_item:hover.wt_timeline_item:before,
+.wt_service_box_sc .wt_icon_type_3.wt_icon_default,
+#wt_footerWrapper input[type="submit"],
+/* ----- Specific Theme Styles ----- */
+.btn-intro,
+.btn-buy {
+	border-color: #e74c3c; }
+.wt_skin_border_left_color,
+/* ----- Shortcodes ----- */
+.wt_services_buttons a,
+.wpb_accordion .wpb_accordion_header.ui-state-active a {
+	border-left-color: #e74c3c; }
+.wt_skin_border_right_color,
+/* ----- Shortcodes ----- */
+.wt_services_buttons a {
+	border-right-color: #e74c3c; }
+.wt_skin_border_top_color,
+ul.wt_tabs li a.current,
+.woocommerce .woocommerce-message, .woocommerce-page .woocommerce-message {
+	border-top-color: #e74c3c; }
+.wt_skin_border_bottom_color,
+#nav ul ul.sub-menu, 
+#nav ul ul.sub-menu li ul.sub-menu,
+#nav ul ul.children, 
+#nav ul ul.children li ul.children {
+	border-bottom-color: #e74c3c; }
+.form-control:focus {
+    border-color: #e74c3c !important; }
+.wt_color_overlay {
+	background: rgba(231,76,60,0.5); }
+.wt_team_overlay .wt_team_content {
+	/* ----- Shortcodes ----- */
+	background: rgba(231,76,60,0.9); }
+.wt_loader_html {
+	background-image: url("carmine-pink/loader.gif"); }
+	
+/* ----- Secondary Color ----- */
+
+#wt_sidebar .wt_postInfo a:hover,
+.widget .wt_postInfo .comments a:hover,
+#wt_footerWrapper .widget .wt_postInfo .comments a:hover {
+	color: #bc3729; }
+.btn-theme:hover,
+.wp-pagenavi .currentPosts,
+.wp-pagenavi > .active,
+.wp-pagenavi > .active > span,
+.wp-pagenavi > .active > a:hover,
+.wp-pagenavi > .active > span:hover,
+.wp-pagenavi > .active > a:focus,
+.wp-pagenavi > .active > span:focus,
+.wt_search_form .search-btn:hover,
+.tagcloud a:hover,
+.contact_button:hover,
+#wt_footerWrapper form input[type="submit"]:hover,
+.dual-btns .btn-main:nth-child(2),
+.wt_image_zoom:hover, .wt_image_zoom:focus {
+	background-color: #bc3729; }
+.wp-pagenavi .currentPosts,
+.wp-pagenavi > .active,
+.wp-pagenavi > .active > span,
+.wp-pagenavi > .active > a:hover,
+.wp-pagenavi > .active > span:hover,
+.wp-pagenavi > .active > a:focus,
+.wp-pagenavi > .active > span:focus,
+.wt_search_form .search-btn,
+.tagcloud a:hover,
+.wpcf7-form input[type="submit"] {
+	border-color: #bc3729; }
+	
+/* ----- Static Styles to avoid css important ----- */ 
+
+.blogEntry_title a {
+	color: #333; }
