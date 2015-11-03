@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CrossWay\n"
 "POT-Creation-Date: 2014-12-05 16:31+0200\n"
-"PO-Revision-Date: 2015-10-22 21:59-0600\n"
+"PO-Revision-Date: 2015-11-02 22:48-0600\n"
 "Last-Translator: \n"
 "Language-Team: Whoathemes <whoathemes@gmail.com>\n"
 "Language: en_US\n"
@@ -18,12 +18,12 @@ msgstr ""
 
 #: comments.php:80
 msgid "Leave a Reply"
-msgstr ""
+msgstr "Deja una Respuesta"
 
 #: comments.php:80
 #, php-format
 msgid "Leave a Reply to %s"
-msgstr ""
+msgstr "Deja una Respuesta para %s"
 
 #: comments.php:89
 #, php-format
@@ -31,6 +31,8 @@ msgid ""
 "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
 "this account\">Log out?</a>"
 msgstr ""
+"Conectado como <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Salir de "
+"esta cuenta\">Log out?</a>"
 
 #: loop-wt_portfolio.php:28 loop.php:60 template_blog.php:99
 #: framework/shortcodes/elements/wt_vcsc_blog_grid.php:322
@@ -41,7 +43,7 @@ msgstr ""
 
 #: loop-wt_portfolio.php:37
 msgid "Read more &raquo;"
-msgstr ""
+msgstr "Leer mas &raquo;"
 
 #: loop.php:74 single-wt_portfolio.php:43 single.php:80 template_blog.php:113
 msgid "Pages:"
@@ -2476,12 +2478,12 @@ msgstr ""
 
 #: framework/includes/theme-features.php:598 framework/widgets/search.php:9
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #: framework/includes/theme-features.php:599
 #, php-format
 msgid "Search Results for: \"%s\""
-msgstr ""
+msgstr "Resultado para: \"%s\""
 
 #: framework/includes/theme-features.php:997
 #: framework/includes/theme-features.php:1055
@@ -2503,7 +2505,7 @@ msgstr ""
 #: framework/includes/theme-features.php:1138
 #: framework/shortcodes/includes/wt_vcsc_functions.php:529
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: framework/includes/theme-features.php:1019
 #: framework/includes/theme-features.php:1078
@@ -2735,7 +2737,7 @@ msgstr ""
 
 #: framework/plugins/breadcrumbs-plus/breadcrumbs-plus.php:144
 msgid "Search results for \""
-msgstr ""
+msgstr "Resultado para \""
 
 #: framework/plugins/breadcrumbs-plus/breadcrumbs-plus.php:182
 #: framework/plugins/breadcrumbs-plus/breadcrumbs-plus.php:185
